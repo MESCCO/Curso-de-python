@@ -3,6 +3,6 @@ N =int(input())
 año=N//365
 meses=(N%365)//30
 dias=(N%365)%30
-print(año,"año(s)")
+print(año,"ano(s)")
 print(meses,"mes(es)")
 print(dias,"dia(s)")

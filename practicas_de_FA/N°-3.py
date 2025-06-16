@@ -1,6 +1,6 @@
 """"
 ejercicio 3
-concatenar caddenas de texto
+concatenar  dos cadenas de texto
 """
 
 #definir texto
