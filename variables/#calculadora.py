@@ -14,4 +14,4 @@ match operacion:
     case "/":
         res = nro1/nro2
   
-  print(f"El resultado de {nro1} {operacion} {nro2} = {resultado}")   
+  print(f"El resultado de {nro1} {operacion} {nro2} = ",res)
